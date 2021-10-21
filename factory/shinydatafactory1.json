@@ -1,0 +1,9 @@
+{
+	"name": "shinydatafactory1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9cdc6dc5-c306-4ca3-bf45-d5172e609722",
+		"tenantId": "02aa9fc1-18bc-4798-a020-e01c854dd434"
+	}
+}
